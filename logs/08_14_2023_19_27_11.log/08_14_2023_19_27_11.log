@@ -1,0 +1,3 @@
+[ 2023-08-14 19:27:12,533 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-14 19:27:12,535 ] 187 werkzeug - INFO -  * Debugger PIN: 707-228-858
+[ 2023-08-14 19:27:17,447 ] 187 werkzeug - INFO -  * Detected change in 'd:\\pyn\\test_work\\price_prediction\\setup.py', reloading

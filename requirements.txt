@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+scikit-learn
+seaborn
+h5py
+typing-extensions
+wheel
+-e .
