@@ -1,0 +1,8 @@
+[ 2023-12-13 03:48:44,622 ] 148 numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2023-12-13 03:48:44,622 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-12-13 03:48:46,677 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-12-13 03:48:46,680 ] 224 werkzeug - INFO -  * Debugger PIN: 112-786-039
+[ 2023-12-13 03:48:50,799 ] 224 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2023 03:48:50] "GET /predict HTTP/1.1" 200 -
+[ 2023-12-13 03:49:13,483 ] 67 root - INFO - Dataframe Gathered
+[ 2023-12-13 03:49:13,762 ] 224 werkzeug - INFO -  * Detected change in 'C:\\ProgramData\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+[ 2023-12-13 03:49:13,804 ] 224 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2023 03:49:13] "POST /predict HTTP/1.1" 200 -
